@@ -16,6 +16,15 @@ There are 2 assignments
 >1. Pandas - for read and cleansnig data
 >2. Psycopg2 - for create connection to PostgreSQL database
 
+## Installation
+
+```
+!apt install postgresql postgresql-contrib &>log
+!service postgresql start
+!sudo -u postgres psql -c "CREATE USER root WITH SUPERUSER"
+!sudo -u postgres createdb challenge
+```
+
 
 ## Result
 ### Task 1 : Preview result from table food_sales
