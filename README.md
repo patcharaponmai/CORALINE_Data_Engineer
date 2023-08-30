@@ -1,4 +1,4 @@
-# Take_Home_Test_Coraline
+# CORALINE Data Engineer Junior
 
 ## Introduction
 This is a take home test for position Data Engineer (Junior) from Coraline company.
