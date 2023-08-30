@@ -18,8 +18,8 @@ There are 2 assignment to complete
 
 
 ## Result
-### Task 1
+### Task 1 : Preview result from table food_sales
 ![image](https://github.com/patcharaponmai/Take_Home_Test_Coraline/assets/140698887/b28bd640-6b62-4c2c-a6b4-c5d44a121930)
 
-### Task 2
+### Task 2 : Preview result from table cat_reg
 ![image](https://github.com/patcharaponmai/Take_Home_Test_Coraline/assets/140698887/ed8bc43f-9580-48d8-b948-4d168183f786)
