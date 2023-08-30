@@ -3,7 +3,7 @@
 ## Introduction
 This is a take home test for position Data Engineer (Junior) from Coraline company.
 
-There are 2 assignment to complete
+There are 2 assignments
 >1. Create a Python script to ingest data from an Excel file into a PostgreSQL database, consolidating data from each year into a single table.
 >2. Create a SQL script to build a table: "cat_reg" utilizing data from a previous  assignment.
 
