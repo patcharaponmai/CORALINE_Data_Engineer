@@ -9,7 +9,7 @@ There are 2 assignments
 
 ## Material
 >1. Challenge instruction - Challenge - DE (Junior).pdf
->2. Source file - de_challenge_data (1).xlsx
+>2. Source file - de_challenge_data.xlsx
 >3. Source code - Take_Home_Coraline_test.ipynb
 
 ## Requirement library
@@ -19,9 +19,16 @@ There are 2 assignments
 ## Installation
 
 ```
+# install PostgreSQL
 !apt install postgresql postgresql-contrib &>log
+
+# start PostgreSQL serviecs
 !service postgresql start
+
+# Create root user
 !sudo -u postgres psql -c "CREATE USER root WITH SUPERUSER"
+
+# Create database
 !sudo -u postgres createdb challenge
 ```
 
